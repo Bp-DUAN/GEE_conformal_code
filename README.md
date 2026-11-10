@@ -1,5 +1,7 @@
 # GEE_conformal_code
-## parametric FEMs for geometric evolution equations using conformal map
+## Algorithm corresponds to the paper
+## Surface evolution under conformal map and linearized energy-stable parametric finite element methods
+## Author: Beiping Duan
 
 WConformal_Surface_CN_SEuler.m: To compute surface evolution of closed surfaces
 
